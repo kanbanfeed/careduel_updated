@@ -1,0 +1,58 @@
+BUSINESS DUEL PACK
+
+60+ AI PROMPTS FOR BUSINESS, MARKETING & REVENUE
+
+---
+
+HOW TO USE:
+Copy → Paste → Customize → Execute
+
+---
+
+SECTION 1: BUSINESS IDEAS
+
+1. Generate 10 high-demand business ideas for [industry].
+2. Validate this idea: [idea].
+3. Identify target audience for this business.
+
+---
+
+SECTION 2: MARKET RESEARCH
+
+4. Analyze competitors in [industry].
+5. Identify gaps in the market.
+6. Suggest unique positioning strategy.
+
+---
+
+SECTION 3: SALES & COPYWRITING
+
+7. Write a high-converting landing page for: [product].
+8. Create persuasive sales copy.
+9. Improve this copy: [text].
+
+---
+
+SECTION 4: SCALING
+
+10. Suggest ways to scale this business: [details].
+11. Identify bottlenecks in growth.
+12. Create expansion strategy.
+
+---
+
+SECTION 5: REVENUE OPTIMIZATION
+
+13. Increase pricing strategy without losing customers.
+14. Identify upsell opportunities.
+15. Improve conversion rate.
+
+---
+
+BONUS:
+- Test multiple outputs
+- Refine continuously
+
+---
+
+END

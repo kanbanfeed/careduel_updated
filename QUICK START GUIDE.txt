@@ -1,0 +1,35 @@
+QUICK START GUIDE
+
+---
+
+STEP 1:
+Open your AI tool (ChatGPT or others)
+
+STEP 2:
+Copy any prompt from your pack
+
+STEP 3:
+Paste into AI
+
+STEP 4:
+Replace placeholders like:
+[task], [idea], [income], etc.
+
+STEP 5:
+Run and refine output
+
+---
+
+TIPS:
+- Be specific
+- Iterate results
+- Combine prompts for better output
+
+---
+
+SUPPORT:
+Refer to instructions provided.
+
+---
+
+END

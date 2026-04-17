@@ -1,0 +1,58 @@
+WEALTH DUEL PACK
+
+60+ AI PROMPTS FOR WEALTH, NEGOTIATION & INCOME SYSTEMS
+
+---
+
+HOW TO USE:
+Copy any prompt → Paste into your AI tool → Replace [variables] → Execute
+
+---
+
+SECTION 1: MONEY MINDSET & STRATEGY
+
+1. Act as a ruthless financial strategist. Analyze my current income: [details]. Identify 5 highest-leverage ways to increase it within 30 days.
+2. Break down my spending habits: [details]. Show me where I'm losing money and how to fix it immediately.
+3. Create a wealth-building roadmap for someone earning [amount] monthly.
+
+---
+
+SECTION 2: INCOME GENERATION
+
+4. Suggest 10 scalable online income ideas based on my skills: [skills].
+5. Create a step-by-step plan to launch a side hustle in 7 days.
+6. Turn this idea into a monetizable business: [idea].
+
+---
+
+SECTION 3: NEGOTIATION
+
+7. Act as a high-level negotiator. Help me negotiate salary from [X] to [Y].
+8. Write a persuasive negotiation script for closing a deal.
+9. Identify leverage points in this situation: [context].
+
+---
+
+SECTION 4: INVESTMENT THINKING
+
+10. Explain best investment strategies for long-term wealth in simple terms.
+11. Compare risk vs reward for these options: [options].
+12. Suggest a diversified portfolio based on [risk level].
+
+---
+
+SECTION 5: DECISION MAKING
+
+13. Evaluate this financial decision: [decision]. Give pros, cons, and final recommendation.
+14. Identify hidden risks in this plan: [plan].
+15. Suggest smarter alternatives.
+
+---
+
+BONUS:
+- Combine prompts for better outputs
+- Iterate responses for refinement
+
+---
+
+END
