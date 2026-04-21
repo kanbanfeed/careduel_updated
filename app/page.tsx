@@ -188,7 +188,7 @@ export default function Home() {
 
         <div className="text-center mt-10 text-sm text-gray-500 space-x-4">
           
-          <Link href="/terms" className="hover:text-gray-900 underline transition">
+          <Link href="/terms" className="hover:text-white underline transition">
             Terms & Policies
           </Link>
 
