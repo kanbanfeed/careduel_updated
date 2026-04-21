@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from "react";
-
+ import Link from "next/link";
 export default function Home() {
 
   const [time, setTime] = useState(86400);
@@ -184,6 +184,16 @@ export default function Home() {
             Get Full Arsenal Bundle – $97 (Recommended)
           </a>
         </div>
+       
+
+        <div className="text-center mt-10 text-sm text-gray-500 space-x-4">
+          
+          <Link href="/terms" className="hover:text-gray-900 underline transition">
+            Terms & Policies
+          </Link>
+
+        </div>
+
       </section>
 
     </main>
